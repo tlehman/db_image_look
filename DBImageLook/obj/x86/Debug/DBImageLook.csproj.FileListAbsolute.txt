@@ -1,0 +1,9 @@
+c:\users\tlehman\documents\visual studio 2010\Projects\DBImageLook\DBImageLook\bin\Debug\DBImageLook.exe
+c:\users\tlehman\documents\visual studio 2010\Projects\DBImageLook\DBImageLook\bin\Debug\DBImageLook.pdb
+c:\users\tlehman\documents\visual studio 2010\Projects\DBImageLook\DBImageLook\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\tlehman\documents\visual studio 2010\Projects\DBImageLook\DBImageLook\obj\x86\Debug\DBImageLook.Form1.resources
+c:\users\tlehman\documents\visual studio 2010\Projects\DBImageLook\DBImageLook\obj\x86\Debug\DBImageLook.Properties.Resources.resources
+c:\users\tlehman\documents\visual studio 2010\Projects\DBImageLook\DBImageLook\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\tlehman\documents\visual studio 2010\Projects\DBImageLook\DBImageLook\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\tlehman\documents\visual studio 2010\Projects\DBImageLook\DBImageLook\obj\x86\Debug\DBImageLook.exe
+c:\users\tlehman\documents\visual studio 2010\Projects\DBImageLook\DBImageLook\obj\x86\Debug\DBImageLook.pdb
